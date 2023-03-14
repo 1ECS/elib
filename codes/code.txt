@@ -1,5 +1,5 @@
 BAN Codes:
   EAC:
-    035 - Backdoor ban (likely backdoor)
+    035 - Backdoor ban (likely fake backdoor)
     035-B - Backdoor Ban (a real backdoor that has been overriden)
     
